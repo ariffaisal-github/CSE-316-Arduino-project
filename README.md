@@ -1,1 +1,2 @@
-# CSE-316-Arduino-Project
+# Security Check-in System
+Microcontroller and Embedded systems project using Arduino
